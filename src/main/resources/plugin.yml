@@ -1,0 +1,4 @@
+name: NetherRPG
+version: '${version}'
+main: com.corruptedbyte.netherrpg.NetherRPG
+api-version: '1.20'
